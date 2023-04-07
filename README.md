@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏼‍♂️ I'm 🇧🇷 but living in 🇵🇹<br/>
+🙋🏼‍♂️ I'm 🇧🇷 but living in 🇵🇹<br/><br/>
 🔭 As a self-taught professional, I began my career in IT back in 2002, working with a wide range of languages including C++, C#, VB .NET, VB 6, PHP, Java, Javascript, and DART.
 
 But that's not all! I'm always seeking new knowledge and technical improvements, as well as people management skills, and I stay up to date with the latest technologies and methodologies on the market. I'm passionate about technology, and in particular, creating high-performance web APIs and mobile apps with cross-platform frameworks such as Xamarin.Forms, Flutter, and React Native.
